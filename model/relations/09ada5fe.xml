@@ -1,0 +1,5 @@
+<archimate:InfluenceRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="09ada5fe"
+    source="archimate:Assessment ../motivation/03b36197.xml#03b36197"
+    target="archimate:Goal ../motivation/356a97f1.xml#356a97f1"/>

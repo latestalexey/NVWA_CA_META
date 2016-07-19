@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="637f0fb3"
+    name="beheert"
+    source="archimate:BusinessFunction ../business/ecff0676.xml#ecff0676"
+    target="archimate:BusinessObject ../business/b950a74c.xml#b950a74c"/>

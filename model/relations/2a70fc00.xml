@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2a70fc00"
+    name="post-conditie"
+    source="archimate:Constraint ../motivation/72d50e28.xml#72d50e28"
+    target="archimate:BusinessProcess ../business/e002e130.xml#e002e130"/>

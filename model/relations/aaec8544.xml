@@ -1,0 +1,6 @@
+<archimate:RealisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="aaec8544"
+    name="realiseert"
+    source="archimate:DataObject ../application/6414693c.xml#6414693c"
+    target="archimate:BusinessObject ../business/caee5145.xml#caee5145"/>

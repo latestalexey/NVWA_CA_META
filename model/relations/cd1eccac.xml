@@ -1,0 +1,7 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="cd1eccac"
+    name="benadert / wijzigt"
+    source="archimate:BusinessProcess ../business/e002e130.xml#e002e130"
+    target="archimate:BusinessObject ../business/caee5145.xml#caee5145"
+    accessType="3"/>

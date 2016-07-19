@@ -1,0 +1,7 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="ae898961"
+    name="transporteert"
+    source="archimate:ApplicationInteraction ../application/7ee48b32.xml#7ee48b32"
+    target="archimate:DataObject ../application/6414693c.xml#6414693c"
+    accessType="1"/>

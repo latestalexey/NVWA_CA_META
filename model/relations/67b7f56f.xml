@@ -1,0 +1,6 @@
+<archimate:InfluenceRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="67b7f56f"
+    name="beinvloed"
+    source="archimate:Principle ../motivation/d053312b.xml#d053312b"
+    target="archimate:Principle ../motivation/868cdb2b.xml#868cdb2b"/>

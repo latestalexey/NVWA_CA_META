@@ -1,0 +1,6 @@
+<archimate:CompositionRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="0be68384"
+    name="is onderdeel van"
+    source="archimate:BusinessFunction ../business/ecff0676.xml#ecff0676"
+    target="archimate:BusinessProcess ../business/f0626b71.xml#f0626b71"/>

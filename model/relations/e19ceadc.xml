@@ -1,0 +1,6 @@
+<archimate:SpecialisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e19ceadc"
+    name="specialiseert"
+    source="archimate:BusinessObject ../business/caee5145.xml#caee5145"
+    target="archimate:BusinessObject ../business/caee5145.xml#caee5145"/>

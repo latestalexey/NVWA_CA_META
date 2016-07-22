@@ -1,6 +1,6 @@
 <archimate:AssignmentRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f0abca24"
-    name="is toegewezen aan"
+    name="uitgevoerd door"
     source="archimate:BusinessRole ../business/f2b2a821.xml#f2b2a821"
     target="archimate:BusinessProcess ../business/e002e130.xml#e002e130"/>

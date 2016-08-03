@@ -4,4 +4,4 @@
     name="transporteert"
     source="archimate:ApplicationInteraction ../application/7ee48b32.xml#7ee48b32"
     target="archimate:DataObject ../application/6414693c.xml#6414693c"
-    accessType="1"/>
+    accessType="2"/>

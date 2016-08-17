@@ -543,11 +543,12 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e33d7c1b"
       textAlignment="2"
+      targetConnections="#b00b25b2"
       archimateElement="archimate:BusinessRole ../business/f2b2a821.xml#f2b2a821">
     <bounds
         x="601"
         y="522"
-        width="132"
+        width="96"
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -555,5 +556,22 @@
         source="#e33d7c1b"
         target="#e08d630f"
         relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8af5ae0f"
+      textAlignment="2"
+      archimateElement="archimate:BusinessActor ../business/4fb2f74d.xml#4fb2f74d">
+    <bounds
+        x="732"
+        y="522"
+        width="97"
+        height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b00b25b2"
+        source="#8af5ae0f"
+        target="#e33d7c1b"
+        relationship="archimate:AssignmentRelationship ../relations/46eb1f0a.xml#46eb1f0a"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,6 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="451877ba"
-    name="levert"
-    source="archimate:BusinessProcess ../business/f0626b71.xml#f0626b71"
+    id="372bb8ee"
+    name="Geeft betekenis aan"
+    source="archimate:Meaning ../business/3dac1f90.xml#3dac1f90"
     target="archimate:Product ../business/a35aed6d.xml#a35aed6d"/>

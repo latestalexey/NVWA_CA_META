@@ -26,12 +26,6 @@
         source="#9726e94f"
         target="#79b36b40"
         relationship="archimate:AggregationRelationship ../relations/273d5a1d.xml#273d5a1d"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e14dc1de"
-        source="#9726e94f"
-        target="#c3e3d79d"
-        relationship="archimate:AssociationRelationship ../relations/451877ba.xml#451877ba"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,23 +48,24 @@
           startX="-293"
           endY="117"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e14dc1de"
+        source="#ef34ab25"
+        target="#d2b37851"
+        relationship="archimate:AssociationRelationship ../relations/451877ba.xml#451877ba"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d2b37851"
       textAlignment="2"
+      targetConnections="#e14dc1de"
       archimateElement="archimate:Product ../business/a35aed6d.xml#a35aed6d">
     <bounds
         x="-149"
         y="72"
         width="132"
         height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1591f537"
-        source="#d2b37851"
-        target="#c3e3d79d"
-        relationship="archimate:SpecialisationRelationship ../relations/40e421b6.xml#40e421b6"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="65251e69"
@@ -200,18 +195,6 @@
         source="#d0b3b164"
         target="#ee4781a2"
         relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c3e3d79d"
-      textAlignment="2"
-      targetConnections="#1591f537 #e14dc1de"
-      archimateElement="archimate:Product ../business/16a0dc85.xml#16a0dc85">
-    <bounds
-        x="35"
-        y="72"
-        width="145"
-        height="55"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

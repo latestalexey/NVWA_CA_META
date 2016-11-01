@@ -48,18 +48,11 @@
           startX="-293"
           endY="117"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="e14dc1de"
-        source="#ef34ab25"
-        target="#d2b37851"
-        relationship="archimate:AssociationRelationship ../relations/451877ba.xml#451877ba"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d2b37851"
       textAlignment="2"
-      targetConnections="#e14dc1de"
       archimateElement="archimate:Product ../business/a35aed6d.xml#a35aed6d">
     <bounds
         x="-149"

@@ -595,13 +595,35 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="47d58627"
       textAlignment="2"
-      targetConnections="#45fdde04 #b02241ea #dd70f193"
+      targetConnections="#45fdde04 #b02241ea #dd70f193 #b64d72b3"
       archimateElement="archimate:BusinessInteraction ../business/586d8f44.xml#586d8f44">
     <bounds
         x="527"
         y="307"
         width="145"
         height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b64d72b3"
+        source="#47d58627"
+        target="#47d58627"
+        relationship="archimate:TriggeringRelationship ../relations/3bc8a978.xml#3bc8a978">
+      <bendpoints
+          startX="37"
+          startY="50"
+          endX="37"
+          endY="50"/>
+      <bendpoints
+          startX="97"
+          startY="50"
+          endX="97"
+          endY="50"/>
+      <bendpoints
+          startX="97"
+          startY="2"
+          endX="97"
+          endY="2"/>
+    </sourceConnections>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

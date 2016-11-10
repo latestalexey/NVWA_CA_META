@@ -139,7 +139,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="49538c01"
       textAlignment="2"
-      targetConnections="#1a77f0b7"
+      targetConnections="#7d47fd0f"
       archimateElement="archimate:BusinessProcess ../business/f0626b71.xml#f0626b71">
     <bounds
         x="527"
@@ -248,10 +248,10 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1a77f0b7"
+        id="7d47fd0f"
         source="#68f66e4c"
         target="#49538c01"
-        relationship="archimate:AggregationRelationship ../relations/21cd395a.xml#21cd395a"/>
+        relationship="archimate:CompositionRelationship ../relations/e8bf7c9b.xml#e8bf7c9b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

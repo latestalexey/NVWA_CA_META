@@ -1,5 +1,6 @@
 <archimate:UsedByRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="474d5151"
+    name="wordt gebruikt binnen"
     source="archimate:BusinessProcess ../business/f0626b71.xml#f0626b71"
     target="archimate:BusinessInteraction ../business/586d8f44.xml#586d8f44"/>

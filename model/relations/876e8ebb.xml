@@ -1,0 +1,6 @@
+<archimate:SpecialisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="876e8ebb"
+    name="is een specialisatie van"
+    source="archimate:BusinessActor ../business/4fb2f74d.xml#4fb2f74d"
+    target="archimate:BusinessActor ../business/6c159388.xml#6c159388"/>

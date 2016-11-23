@@ -1,5 +1,6 @@
-<archimate:AggregationRelationship
+<archimate:CompositionRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5eb87355"
+    id="231d7488"
+    name="is onderdeel van"
     source="archimate:Product ../business/a35aed6d.xml#a35aed6d"
     target="archimate:Product ../business/0232b9ac.xml#0232b9ac"/>

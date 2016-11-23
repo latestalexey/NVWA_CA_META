@@ -67,7 +67,7 @@
         id="130c1a91"
         font="1|Arial|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Arial"
         textAlignment="2"
-        targetConnections="#bd2a9689 #52c67e38 #ac25725d #bf1ff97e #e883c926"
+        targetConnections="#bd2a9689 #ac25725d #bf1ff97e #e883c926"
         archimateElement="archimate:BusinessProcess ../business/e002e130.xml#e002e130">
       <bounds
           x="24"
@@ -107,12 +107,6 @@
           y="24"
           width="132"
           height="55"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="52c67e38"
-          source="#3487c61f"
-          target="#130c1a91"
-          relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
     </children>
   </children>
   <children

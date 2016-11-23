@@ -42,19 +42,13 @@
           y="24"
           width="132"
           height="55"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="42f5414d"
-          source="#4be1f2cd"
-          target="#47664549"
-          relationship="archimate:AssignmentRelationship ../../relations/f0abca24.xml#f0abca24"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="47664549"
         font="1|Arial|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Arial"
         textAlignment="2"
-        targetConnections="#7d49f87b #42f5414d"
+        targetConnections="#7d49f87b"
         archimateElement="archimate:BusinessProcess ../../business/e002e130.xml#e002e130">
       <bounds
           x="36"
@@ -87,7 +81,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f863c598"
           source="#47664549"
-          target="#e2cd5c12"
+          target="#f3c3d93c"
           relationship="archimate:AccessRelationship ../../relations/cd1eccac.xml#cd1eccac">
         <bendpoints
             startX="30"
@@ -135,28 +129,11 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f3c3d93c"
       textAlignment="2"
+      targetConnections="#f863c598"
       archimateElement="archimate:BusinessObject ../../business/b950a74c.xml#b950a74c">
     <bounds
         x="552"
         y="136"
-        width="132"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="bd19b356"
-        source="#f3c3d93c"
-        target="#e2cd5c12"
-        relationship="archimate:AggregationRelationship ../../relations/472058a8.xml#472058a8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2cd5c12"
-      textAlignment="2"
-      targetConnections="#f863c598 #bd19b356"
-      archimateElement="archimate:BusinessObject ../../business/caee5145.xml#caee5145">
-    <bounds
-        x="552"
-        y="312"
         width="132"
         height="55"/>
   </children>

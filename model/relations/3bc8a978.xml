@@ -1,5 +1,6 @@
 <archimate:TriggeringRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3bc8a978"
+    name="triggert"
     source="archimate:BusinessInteraction ../business/586d8f44.xml#586d8f44"
     target="archimate:BusinessInteraction ../business/586d8f44.xml#586d8f44"/>

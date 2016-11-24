@@ -1,0 +1,6 @@
+<archimate:AccessRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1b61a892"
+    name="wordt bepaald door"
+    source="archimate:BusinessRole ../business/f2b2a821.xml#f2b2a821"
+    target="archimate:BusinessObject ../business/b1f61d08.xml#b1f61d08"/>

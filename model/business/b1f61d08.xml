@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="b1f61d08"
+    name="Kenmerk"
+    documentation="Kenmerken bepalen welke autorisatie een medewerker krijgt in het systeem.&#xD;&#xA;- functiegroep (bijvoorbeeld: senior inspecteur)&#xD;&#xA;- organisatieonderdeel (bijvoorbeeld: Team West)&#xD;&#xA;- domein (bijvoorbeeld: Horeca)&#xD;&#xA;- opleiding (bijvoorbeeld: BOA)"/>

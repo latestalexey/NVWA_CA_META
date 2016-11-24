@@ -202,13 +202,18 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b8a468b8"
       textAlignment="2"
-      targetConnections="#1522496c"
       archimateElement="archimate:BusinessRole ../business/f2b2a821.xml#f2b2a821">
     <bounds
-        x="474"
-        y="516"
+        x="468"
+        y="600"
         width="145"
         height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="58edfdc1"
+        source="#b8a468b8"
+        target="#fbd7519a"
+        relationship="archimate:AccessRelationship ../relations/1b61a892.xml#1b61a892"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -232,6 +237,12 @@
         source="#61d7c267"
         target="#c099618d"
         relationship="archimate:SpecialisationRelationship ../relations/876e8ebb.xml#876e8ebb"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="77afcf3d"
+        source="#61d7c267"
+        target="#fbd7519a"
+        relationship="archimate:AssociationRelationship ../relations/724d7ea2.xml#724d7ea2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -310,15 +321,21 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1522496c"
-        source="#c099618d"
-        target="#b8a468b8"
-        relationship="archimate:AssignmentRelationship ../relations/46eb1f0a.xml#46eb1f0a"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="57e437ce"
         source="#c099618d"
         target="#900a79d5"
         relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fbd7519a"
+      textAlignment="2"
+      targetConnections="#77afcf3d #58edfdc1"
+      archimateElement="archimate:BusinessObject ../business/b1f61d08.xml#b1f61d08">
+    <bounds
+        x="235"
+        y="600"
+        width="144"
+        height="55"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="884253fe"
+    name="levert"
+    source="archimate:BusinessInteraction ../business/586d8f44.xml#586d8f44"
+    target="archimate:Product ../business/0232b9ac.xml#0232b9ac"/>

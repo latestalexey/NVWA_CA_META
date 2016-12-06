@@ -1,0 +1,6 @@
+<archimate:RealisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="2e25a24f"
+    name="is een verschijning van"
+    source="archimate:Representation ../business/a8de491a.xml#a8de491a"
+    target="archimate:BusinessObject ../business/b950a74c.xml#b950a74c"/>

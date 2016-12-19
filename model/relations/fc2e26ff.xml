@@ -1,0 +1,6 @@
+<archimate:RealisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fc2e26ff"
+    name="wordt bestuurd door "
+    source="archimate:BusinessProcess ../business/e002e130.xml#e002e130"
+    target="archimate:Constraint ../motivation/72d50e28.xml#72d50e28"/>

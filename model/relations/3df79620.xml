@@ -1,5 +1,6 @@
-<archimate:RealisationRelationship
+<archimate:AssociationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5c0bd21d"
+    id="3df79620"
+    name="geeft waarde"
     source="archimate:Product ../business/0232b9ac.xml#0232b9ac"
     target="archimate:Constraint ../motivation/72d50e28.xml#72d50e28"/>

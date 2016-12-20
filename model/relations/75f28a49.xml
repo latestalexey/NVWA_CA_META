@@ -1,5 +1,6 @@
 <archimate:UsedByRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="75f28a49"
+    name="maakt mogelijk"
     source="archimate:ApplicationComponent ../application/c558ddea.xml#c558ddea"
     target="archimate:ApplicationService ../application/0a4d30de.xml#0a4d30de"/>

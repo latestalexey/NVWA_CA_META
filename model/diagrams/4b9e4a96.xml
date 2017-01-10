@@ -229,6 +229,7 @@
       id="cd48e9c9"
       textAlignment="2"
       targetConnections="#171f3013 #7b31826c #10cac3f8 #6c29415c"
+      fillColor="#c0c0c0"
       archimateElement="archimate:DataObject ../application/6414693c.xml#6414693c">
     <bounds
         x="1056"
@@ -690,6 +691,7 @@
       id="ea4dadbf"
       textAlignment="2"
       targetConnections="#9fb9e9aa #6901d146 #5cac9f34"
+      fillColor="#c0c0c0"
       archimateElement="archimate:Product ../business/0232b9ac.xml#0232b9ac">
     <bounds
         x="288"

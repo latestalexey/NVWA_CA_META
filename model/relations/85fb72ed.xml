@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="85fb72ed"
+    name="wordt gebruikt / geleverd door"
+    source="archimate:Representation ../business/a8de491a.xml#a8de491a"
+    target="archimate:BusinessProcess ../business/e002e130.xml#e002e130"/>

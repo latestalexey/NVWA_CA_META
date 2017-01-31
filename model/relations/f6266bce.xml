@@ -1,0 +1,6 @@
+<archimate:AggregationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f6266bce"
+    name="maakt deel uit van"
+    source="archimate:Node ../technology/bd52971f.xml#bd52971f"
+    target="archimate:InfrastructureInterface ../technology/a21b6333.xml#a21b6333"/>

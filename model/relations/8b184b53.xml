@@ -1,5 +1,6 @@
 <archimate:CompositionRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="8b184b53"
+    name="is onderdeel van"
     source="archimate:ApplicationFunction ../application/1da4090d.xml#1da4090d"
     target="archimate:ApplicationFunction ../application/1da4090d.xml#1da4090d"/>

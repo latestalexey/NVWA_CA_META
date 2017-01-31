@@ -1,6 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f0abca24"
-    name="wordt uitgevoerd door"
-    source="archimate:BusinessActor ../business/6c159388.xml#6c159388"
+    name="is toegewezen aan"
+    documentation="op basis van RBAC"
+    source="archimate:BusinessRole ../business/f2b2a821.xml#f2b2a821"
     target="archimate:BusinessProcess ../business/5d505f2f.xml#5d505f2f"/>

@@ -1,0 +1,6 @@
+<archimate:RealisationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="92d1e880"
+    name="fysieke vorm van"
+    source="archimate:Artifact ../technology/de8bdf9c.xml#de8bdf9c"
+    target="archimate:DataObject ../application/6414693c.xml#6414693c"/>

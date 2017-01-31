@@ -1,0 +1,6 @@
+<archimate:AssignmentRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="24278c03"
+    name="toegewezen opslag"
+    source="archimate:Node ../technology/bd52971f.xml#bd52971f"
+    target="archimate:Artifact ../technology/de8bdf9c.xml#de8bdf9c"/>

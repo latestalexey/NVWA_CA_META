@@ -1,5 +1,0 @@
-<archimate:RealisationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="ae7ae6ff"
-    source="archimate:BusinessProcess ../business/5d505f2f.xml#5d505f2f"
-    target="archimate:Requirement ../motivation/f6461f67.xml#f6461f67"/>

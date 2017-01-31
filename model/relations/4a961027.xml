@@ -1,6 +1,6 @@
 <archimate:RealisationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="4a961027"
-    name="realiseert"
+    name="logische vorm van"
     source="archimate:DataObject ../application/6414693c.xml#6414693c"
     target="archimate:BusinessObject ../business/b950a74c.xml#b950a74c"/>

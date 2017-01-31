@@ -1,6 +1,6 @@
 <archimate:RealisationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="5c6bb173"
-    name="realiseert"
+    id="482754ef"
+    name="is implementatie van"
     source="archimate:ApplicationComponent ../application/c558ddea.xml#c558ddea"
-    target="archimate:Requirement ../motivation/f6461f67.xml#f6461f67"/>
+    target="archimate:Constraint ../motivation/72d50e28.xml#72d50e28"/>

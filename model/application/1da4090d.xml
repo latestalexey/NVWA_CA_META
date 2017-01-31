@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="1da4090d"
-    name="Functionaliteit &lt;&lt;epic>>"
-    documentation="de functionaliteit (het gedrag) van een of meer applicatie componenten "/>
+    name="Functionaliteit"
+    documentation="de functionaliteit (het gedrag) van een of meer applicatie componenten &#xD;&#xA;&#xD;&#xA;Draagt bij aan het realiseren van waarde voor de business. Kan business-epic zijn of enabler-epic."/>

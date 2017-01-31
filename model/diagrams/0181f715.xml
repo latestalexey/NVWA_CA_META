@@ -251,45 +251,10 @@
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="58edfdc1"
+        id="57e437ce"
         source="#b8a468b8"
-        target="#fbd7519a"
-        relationship="archimate:AccessRelationship ../relations/1b61a892.xml#1b61a892"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="61d7c267"
-      textAlignment="2"
-      fillColor="#c0c0c0"
-      archimateElement="archimate:BusinessActor ../business/4fb2f74d.xml#4fb2f74d">
-    <bounds
-        x="18"
-        y="521"
-        width="145"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="68811815"
-        source="#61d7c267"
-        target="#87dd105b"
-        relationship="archimate:AssociationRelationship ../relations/9724c969.xml#9724c969"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="62185444"
-        source="#61d7c267"
-        target="#c099618d"
-        relationship="archimate:SpecialisationRelationship ../relations/876e8ebb.xml#876e8ebb"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="77afcf3d"
-        source="#61d7c267"
-        target="#fbd7519a"
-        relationship="archimate:AssociationRelationship ../relations/724d7ea2.xml#724d7ea2">
-      <bendpoints
-          startY="81"
-          endX="-265"
-          endY="-3"/>
-    </sourceConnections>
+        target="#8dfbe41f"
+        relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -329,7 +294,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="87dd105b"
       textAlignment="2"
-      targetConnections="#68811815"
       archimateElement="archimate:Meaning ../business/3dac1f90.xml#3dac1f90">
     <bounds
         x="12"
@@ -357,28 +321,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c099618d"
-      textAlignment="2"
-      targetConnections="#62185444"
-      fillColor="#c0c0c0"
-      archimateElement="archimate:BusinessActor ../business/6c159388.xml#6c159388">
-    <bounds
-        x="283"
-        y="521"
-        width="144"
-        height="55"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="57e437ce"
-        source="#c099618d"
-        target="#8dfbe41f"
-        relationship="archimate:AssignmentRelationship ../relations/f0abca24.xml#f0abca24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="fbd7519a"
       textAlignment="2"
-      targetConnections="#77afcf3d #58edfdc1"
       fillColor="#c0c0c0"
       archimateElement="archimate:BusinessObject ../business/b1f61d08.xml#b1f61d08">
     <bounds

@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="1da4090d"
-    name="Functionaliteit"/>
+    name="Functionaliteit &lt;&lt;epic>>"
+    documentation="de functionaliteit (het gedrag) van een of meer applicatie componenten "/>

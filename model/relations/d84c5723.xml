@@ -1,6 +1,0 @@
-<archimate:RealisationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="d84c5723"
-    name="realiseert"
-    source="archimate:Requirement ../motivation/ae8329d0.xml#ae8329d0"
-    target="archimate:Principle ../motivation/5ad142ee.xml#5ad142ee"/>

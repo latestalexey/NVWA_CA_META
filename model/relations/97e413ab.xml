@@ -1,5 +1,7 @@
 <archimate:RealisationRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="97e413ab"
+    name="Realiseert"
+    documentation="Is een 1 (systeem software) op n (software component) relatie"
     source="archimate:SystemSoftware ../technology/d856d43f.xml#d856d43f"
     target="archimate:ApplicationComponent ../application/c558ddea.xml#c558ddea"/>

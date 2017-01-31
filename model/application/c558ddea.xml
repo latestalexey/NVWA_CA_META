@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="c558ddea"
-    name="Component"/>
+    name="Software Component"
+    documentation="Een modulair, implementeerbaar en vervangbaar onderdeel van een informatiesysteem dat gedrag (functionaliteit) en data (gegevens) omvat en wordt aangeboden via een (set van) interface(s). &#xD;&#xA;&#xD;&#xA;Een software component element wordt gerealiseerd door 1 systeem software element"/>

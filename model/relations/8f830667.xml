@@ -1,7 +1,5 @@
 <archimate:AccessRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="1471662c"
-    name="leest / schrijft / creeert"
+    id="8f830667"
     source="archimate:ApplicationFunction ../application/1da4090d.xml#1da4090d"
-    target="archimate:DataObject ../application/6414693c.xml#6414693c"
-    accessType="3"/>
+    target="archimate:DataObject ../application/6414693c.xml#6414693c"/>

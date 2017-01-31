@@ -453,9 +453,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e08d630f"
-      font="1|Arial|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Arial"
       textAlignment="2"
       targetConnections="#dfb37f19 #12641258 #cd76bddd #f6f12be7"
+      fillColor="#ffffb5"
       archimateElement="archimate:BusinessProcess ../business/e002e130.xml#e002e130">
     <bounds
         x="527"
@@ -879,7 +879,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="640b2436"
-      font="1|Arial|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Arial"
       textAlignment="2"
       targetConnections="#c9543051 #fc618635"
       fillColor="#ffffb5"
@@ -893,7 +892,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3cda7ed4"
-      font="1|Arial|9.75|3|WINDOWS|1|-13|0|0|0|700|-1|0|0|0|3|2|1|34|Arial"
       textAlignment="2"
       fillColor="#ffffb5"
       archimateElement="archimate:BusinessActor ../business/49d857ea.xml#49d857ea">

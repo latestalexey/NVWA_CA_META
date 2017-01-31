@@ -1,4 +1,5 @@
 <archimate:Meaning
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3dac1f90"
-    name="Domein"/>
+    name="Domein"
+    documentation="Domein waarbinnen producten worden geleverd"/>

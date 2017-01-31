@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a35aed6d"
-    name="Productcategorie"/>
+    name="Product-categorie"
+    documentation="Hoogste aggregatie niveau van producten"/>

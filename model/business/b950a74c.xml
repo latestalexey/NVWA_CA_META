@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="b950a74c"
-    name="Bedrijfs-informatieobject"/>
+    name="Bedrijfs-informatieobject"
+    documentation="Logisch (conceptueel) object dat betekenis (waarde) heeft voor de organisatie. Veelal zullen er gegevens worden bijgehouden die samengesteld een instantie van een bedrijfs-informatieobject vormen. Bijvoorbeeld: medewerker, inspectie(rapport). &#xD;&#xA;&#xD;&#xA;Dezelfde termen worden vaak gebruikt voor meerdere comcepten (van de architectuur). Een inspectierapport kan duiden op de verzameling van resultaten van inspecties (product) of op de fysieke verschijningsvorm (informatieve weerslag) van de gegevens uit een inspectiezaak"/>

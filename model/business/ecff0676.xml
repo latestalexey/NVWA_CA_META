@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="ecff0676"
-    name="Bedrijfsfunctie"/>
+    name="Bedrijfsfunctie"
+    documentation="Eenheid van competenties, middelen en geld die een organisatie in staat stelt haar doelen te realiseren (Archimate 3: Capability)"/>

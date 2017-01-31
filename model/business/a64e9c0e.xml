@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a64e9c0e"
-    name="Bedrijfsproces (procesflow)"/>
+    name="Bedrijfsproces (procesflow)"
+    documentation="End to end keten van werkprocessen die leiden tot een voor de afnemers/opdrachtgevers/klanten van de NVWA herkenbare resultaten. Binnen de NVWA is gekozen om werkprocessen binnen een bedrijfsproces logisch te groeperen via zaaktypen om zo maximaal hergebruikt te realiseren binnen de informatieve oplossing die is gekozen."/>

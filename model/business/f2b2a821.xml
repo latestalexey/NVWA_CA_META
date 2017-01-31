@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f2b2a821"
-    name="systeem-rol"/>
+    name="systeem-rol"
+    documentation="De rol die een persoon kan vervullen binnen de informatiesystemen onder voorwaarde dat de persoon toegang heeft tot het informatiesysteem (login). De systeemrol bepaalt welke autorisatie een persoon krijgt op een zaak of een taak in het systeem. Deze worden bepaald op basis van kenmerken van de functieroepnaam die een persoon heeft. Personen die toegang kunnen krijgen, zijn medewerkers, klanten en ketenpartners."/>

@@ -1,6 +1,0 @@
-<archimate:AssociationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="f471f938"
-    name="heeft context"
-    source="archimate:BusinessObject ../business/b950a74c.xml#b950a74c"
-    target="archimate:Meaning ../business/82f42f14.xml#82f42f14"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="5d505f2f"
     name="Handeling"
-    documentation="Handelingen worden binnen de oplossing uitgevoerd als taak. Wordt binnen CA niet verder uitgemodelleerd"/>
+    documentation="Handeling die door 1 persoon op 1 moment in de tijd wordt uitgevoerd.&#xD;&#xA;&#xD;&#xA;Toelichting: handelingen worden binnen de oplossing opgevoerd als taak. Wordt binnen CA niet verder uitgemodelleerd"/>

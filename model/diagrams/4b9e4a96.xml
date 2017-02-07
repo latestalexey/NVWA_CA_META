@@ -10,9 +10,9 @@
       targetConnections="#c3eca277"
       archimateElement="archimate:Goal ../motivation/ffe0aeb7.xml#ffe0aeb7">
     <bounds
-        x="1115"
+        x="1103"
         y="138"
-        width="145"
+        width="156"
         height="55"/>
   </children>
   <children
@@ -22,9 +22,9 @@
       targetConnections="#6dde1592"
       archimateElement="archimate:Principle ../motivation/868cdb2b.xml#868cdb2b">
     <bounds
-        x="1211"
+        x="1199"
         y="235"
-        width="132"
+        width="156"
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -46,9 +46,9 @@
       targetConnections="#6e295a96"
       archimateElement="archimate:Principle ../motivation/d053312b.xml#d053312b">
     <bounds
-        x="1211"
+        x="1199"
         y="343"
-        width="132"
+        width="156"
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -63,9 +63,9 @@
       textAlignment="2"
       archimateElement="archimate:Principle ../motivation/5ad142ee.xml#5ad142ee">
     <bounds
-        x="1211"
+        x="1199"
         y="457"
-        width="132"
+        width="156"
         height="55"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -381,9 +381,9 @@
       targetConnections="#e8bbaa55"
       archimateElement="archimate:Driver ../motivation/45f88e00.xml#45f88e00">
     <bounds
-        x="1296"
+        x="1284"
         y="138"
-        width="144"
+        width="156"
         height="55"/>
   </children>
   <children
@@ -880,7 +880,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="640b2436"
       textAlignment="2"
-      targetConnections="#c9543051 #fc618635"
+      targetConnections="#c9543051 #fc618635 #8962b88c"
       fillColor="#ffffb5"
       archimateElement="archimate:BusinessProcess ../business/5d505f2f.xml#5d505f2f">
     <bounds
@@ -897,7 +897,7 @@
       archimateElement="archimate:BusinessActor ../business/49d857ea.xml#49d857ea">
     <bounds
         x="240"
-        y="792"
+        y="672"
         width="145"
         height="55"/>
     <sourceConnections
@@ -911,6 +911,17 @@
         id="30d59a96"
         source="#3cda7ed4"
         target="#e33d7c1b"
-        relationship="archimate:AssignmentRelationship ../relations/8d5c3636.xml#8d5c3636"/>
+        relationship="archimate:AssignmentRelationship ../relations/8d5c3636.xml#8d5c3636">
+      <bendpoints
+          startY="118"
+          endX="-298"
+          endY="-2"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8962b88c"
+        source="#3cda7ed4"
+        target="#640b2436"
+        relationship="archimate:AssignmentRelationship ../relations/f5b6b17f.xml#f5b6b17f"/>
   </children>
 </archimate:ArchimateDiagramModel>

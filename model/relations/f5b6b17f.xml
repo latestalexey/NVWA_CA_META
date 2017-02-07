@@ -1,0 +1,6 @@
+<archimate:AssignmentRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f5b6b17f"
+    name="voert uit"
+    source="archimate:BusinessActor ../business/49d857ea.xml#49d857ea"
+    target="archimate:BusinessProcess ../business/5d505f2f.xml#5d505f2f"/>

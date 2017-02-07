@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="567054e4"
-    name="Human Machine Interface &lt;&lt;GUI>>"/>
+    name="Human Machine Interface &lt;&lt;GUI>>"
+    documentation="Onderdeel van een software component waar de toegang wordt verleend aan een gebruiker."/>

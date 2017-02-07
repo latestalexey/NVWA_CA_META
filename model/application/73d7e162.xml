@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="73d7e162"
-    name="Application Programming Interface &lt;&lt;API>>"/>
+    name="Application Programming Interface &lt;&lt;API>>"
+    documentation="Onderdeel van een software component waar de toegang wordt verleend aan een ander software component"/>

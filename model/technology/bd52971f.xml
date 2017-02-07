@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="bd52971f"
-    name="Server"/>
+    name="Server"
+    documentation="Een herkenbaar onderdeel van de infrastructuur waarop systeem software kan draaien, interfaces worden gerealiseerd en data wordt opgeslagen. Voorbeelden zijn: servers, werkplekken, switches, etc. De fysieke hardware wordt uitgedrukt met Devices maar die worden vooralsnog niet in de CA vastgelegd."/>

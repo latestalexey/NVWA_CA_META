@@ -1,6 +1,0 @@
-<archimate:AssociationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="935dcc04"
-    name="heeft betrekking op"
-    source="archimate:Principle ../motivation/5ad142ee.xml#5ad142ee"
-    target="archimate:Requirement ../motivation/669c61dd.xml#669c61dd"/>

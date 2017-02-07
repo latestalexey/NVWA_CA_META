@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a67d2b1e"
-    name="systeem service"
-    documentation="De functionaliteit van het informatiesysteem zoals dat door de business (proces,  actor, rol, business functie) wordt ervaren&#xD;&#xA;&#xD;&#xA;Kan in 1 sprint worden gerealiseerd."/>
+    name="systeem service &lt;&lt;user>>"
+    documentation="De functionaliteit van het informatiesysteem zoals dat door de business (proces,  actor, rol, business functie) wordt ervaren"/>

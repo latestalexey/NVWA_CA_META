@@ -1,0 +1,6 @@
+<archimate:AssociationRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="80f40e9c"
+    name="staat op"
+    source="archimate:Requirement ../motivation/a4d08747.xml#a4d08747"
+    target="archimate:WorkPackage ../implementation_migration/ae4f2570.xml#ae4f2570"/>

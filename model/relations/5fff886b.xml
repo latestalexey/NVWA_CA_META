@@ -1,0 +1,6 @@
+<archimate:InfluenceRelationship
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="5fff886b"
+    name="beperkt / begrensd"
+    source="archimate:Constraint ../motivation/d8125ebb.xml#d8125ebb"
+    target="archimate:Requirement ../motivation/53870ff4.xml#53870ff4"/>

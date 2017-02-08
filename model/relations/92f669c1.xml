@@ -1,5 +1,5 @@
-<archimate:RealisationRelationship
+<archimate:FlowRelationship
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="8effe18c"
+    id="92f669c1"
     source="archimate:ApplicationService ../application/4caf9b95.xml#4caf9b95"
-    target="archimate:Requirement ../motivation/073beabc.xml#073beabc"/>
+    target="archimate:ApplicationService ../application/4caf9b95.xml#4caf9b95"/>

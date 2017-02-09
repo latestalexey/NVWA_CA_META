@@ -1,6 +1,0 @@
-<archimate:AssociationRelationship
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="d44b5e7a"
-    name="wordt gerepresenteerd als"
-    source="archimate:Product ../business/a35aed6d.xml#a35aed6d"
-    target="archimate:Representation ../business/a8de491a.xml#a8de491a"/>

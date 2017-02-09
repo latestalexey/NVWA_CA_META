@@ -149,12 +149,6 @@
         source="#8f38cb38"
         target="#ea4dadbf"
         relationship="archimate:CompositionRelationship ../relations/231d7488.xml#231d7488"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="20034b04"
-        source="#8f38cb38"
-        target="#e5c3c45c"
-        relationship="archimate:AssociationRelationship ../relations/d44b5e7a.xml#d44b5e7a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -530,13 +524,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e5c3c45c"
       textAlignment="2"
-      targetConnections="#20034b04"
       archimateElement="archimate:Representation ../business/a8de491a.xml#a8de491a">
     <bounds
-        x="240"
-        y="192"
+        x="888"
+        y="552"
         width="144"
         height="55"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="cd76bddd"
+        source="#e5c3c45c"
+        target="#e08d630f"
+        relationship="archimate:AssociationRelationship ../relations/85fb72ed.xml#85fb72ed">
+      <bendpoints
+          startX="-180"
+          startY="-27"
+          endX="168"
+          endY="-15"/>
+    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="bafaaf3b"
@@ -544,32 +549,10 @@
         target="#e6405fd0"
         relationship="archimate:RealisationRelationship ../relations/2e25a24f.xml#2e25a24f">
       <bendpoints
-          startY="-86"
-          endX="-773"
-          endY="-201"/>
-      <bendpoints
-          startX="696"
-          startY="-86"
-          endX="-29"
-          endY="-201"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="cd76bddd"
-        textPosition="0"
-        source="#e5c3c45c"
-        target="#e08d630f"
-        relationship="archimate:AssociationRelationship ../relations/85fb72ed.xml#85fb72ed">
-      <bendpoints
-          startX="168"
-          startY="-2"
-          endX="-132"
-          endY="-350"/>
-      <bendpoints
-          startX="168"
-          startY="346"
-          endX="-132"
-          endY="-2"/>
+          startX="60"
+          startY="-159"
+          endX="-18"
+          endY="86"/>
     </sourceConnections>
   </children>
   <children

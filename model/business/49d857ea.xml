@@ -1,5 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="49d857ea"
-    name="persoon"
-    documentation="Een persoon die toegang heeft tot het informatiesysteem en daarbinnen een systeemrol toegewezen kan krijgen. Ook een persoon die een handeling uitvoert binnen een proces(stap)."/>
+    name="Functionairs"
+    documentation="Een functionaris die:&#xD;&#xA;- verantwoorderlijk is voor een productcategorie, bedrijfsinformatieobject, etc.&#xD;&#xA;- toegang heeft tot het informatiesysteem en daarbinnen een systeemrol toegewezen kan krijgen. &#xD;&#xA;- die een handeling uitvoert binnen een proces(stap)."/>

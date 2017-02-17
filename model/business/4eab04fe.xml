@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="4eab04fe"
+    name="Gebeurtenis"
+    documentation="Een gebeurtenis heeft betrekking op een ontstane situatie die aanleiding is voor het uitvoeren van een processtap/werkproces. Het betreft een gebeurtenis die buiten het werkproces valt waar de processtap onderdeel van is (in dat geval triggert de ene processtap de andere.&#xD;&#xA; "/>
